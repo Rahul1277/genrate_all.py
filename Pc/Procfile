@@ -1,0 +1,1 @@
+worker: python genrate_all.py
